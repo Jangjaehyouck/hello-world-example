@@ -18,7 +18,4 @@ pipeline {
     }
 
   }
-  environment {
-    label = 'master'
-  }
 }
